@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jbarb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jbarb\\.nuget\\packages"
+    ]
+  }
+}

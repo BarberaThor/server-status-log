@@ -1,0 +1,13 @@
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\bin\Debug\netcoreapp3.1\ServerStatusLog.exe
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\bin\Debug\netcoreapp3.1\ServerStatusLog.deps.json
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\bin\Debug\netcoreapp3.1\ServerStatusLog.runtimeconfig.json
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\bin\Debug\netcoreapp3.1\ServerStatusLog.runtimeconfig.dev.json
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\bin\Debug\netcoreapp3.1\ServerStatusLog.dll
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\bin\Debug\netcoreapp3.1\ServerStatusLog.pdb
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.csprojAssemblyReference.cache
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.csproj.CoreCompileInputs.cache
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.AssemblyInfoInputs.cache
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.AssemblyInfo.cs
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.dll
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.pdb
+C:\Users\jbarb\Desktop\ServerLog\ServerStatusLog\ServerStatusLog\obj\Debug\netcoreapp3.1\ServerStatusLog.genruntimeconfig.cache
